@@ -1,0 +1,31 @@
+.heading{
+  background-color: rgb(228, 228, 228);
+  height:100px ;
+}
+
+.left-column{
+  display:block;
+  background-color: rgb(185, 224, 126);
+  width:25%;
+  padding-right: 10px;
+}
+
+.number{
+  color: red;
+}
+
+.center-content {
+  flex: 1;
+  margin: 0 20px;
+}
+
+.right-column{
+  background-color: #FDE95E;
+  width:200px;
+  padding-left: 10px;
+}
+
+.merge-columns{
+  display: flex;
+  align-items: flex-start;
+}

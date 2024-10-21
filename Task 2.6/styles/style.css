@@ -1,0 +1,42 @@
+
+
+.parameters-1{
+  width:570px;
+  height:250px;
+  margin: auto;
+}
+
+.block-1{
+  display: flex;
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+} 
+
+
+
+.text-2{
+  padding: 60px;
+
+}
+
+.parameters-2{
+  width:570px;
+  height:530px;
+  margin: auto;
+  border: 10px solid blue;
+}
+
+.block-2{
+  display: flex;
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+
+} 

@@ -1,0 +1,55 @@
+.rectangles, .rectangles2{
+  color: aliceblue;
+  padding-left: 10px;
+}
+
+.stat-rectg{
+  position: static;
+  background-color: blueviolet;
+  width: 200px;
+  height: 100px;
+}
+
+.relat-rectg{
+  position: relative;
+  background-color: brown;
+  width: 200px;
+  height: 100px;
+}
+
+.relat-rectg2{
+  position: relative;
+  background-color: rgba(205,133,63,255);
+  width: 200px;
+  height: 100px;
+  margin-left: 30px;
+  margin-top: -30px;
+}
+
+.big-rectg{
+  position: relative;
+  background-color: rgba(205,92,92,255);
+  width: 600px;
+  height: 400px;
+}
+
+.big-rectg-mini-rec{
+  position: absolute;
+  background-color: purple;
+  width: 400px;
+  height: 200px;
+  left: 200px;
+  top: 100px;
+}
+
+
+.fixed-div{
+  position: fixed;
+  color: aliceblue;
+  border: 1px solid;
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  right: 0;
+  bottom: 0;
+}

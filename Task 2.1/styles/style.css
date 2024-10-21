@@ -1,0 +1,21 @@
+.heading{
+  background-color: rgb(228, 228, 228);
+  height:100px ;
+}
+
+.left-column{
+  background-color: rgb(185, 224, 126);
+  width:200px;
+}
+
+.number{
+  color: red;
+}
+
+.right-content {
+  flex: 1;
+}
+
+.merge-columns{
+  display: flex;
+}

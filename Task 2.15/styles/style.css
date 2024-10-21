@@ -1,0 +1,16 @@
+.blocks{
+  display: grid;
+  grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+  grid-auto-rows: 100px;
+  gap: 25px;
+  width: calc(100%-30px);;
+  margin: 0 15px 0 15px;
+  margin-bottom: 10px;
+}
+.block{
+  background-color: #80fcd4;
+}
+
+.text{
+  background-color: blanchedalmond;
+}

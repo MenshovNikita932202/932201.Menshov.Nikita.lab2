@@ -1,0 +1,14 @@
+.square{
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+  background-color: blue;
+  color: aliceblue;
+}
+
+.mouse{
+  /* position: relative; */
+  float: right;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}

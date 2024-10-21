@@ -1,0 +1,20 @@
+.text{
+  background-color: blue;
+  color: aliceblue;
+}
+
+.parameters{
+  width:700px;
+  height:400px;
+  margin: auto;
+}
+
+.block{
+  position: fixed;
+  overflow:scroll;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
+} 

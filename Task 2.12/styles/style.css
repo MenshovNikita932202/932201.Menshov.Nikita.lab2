@@ -1,0 +1,22 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: .5rem;
+  border: green 1px solid;
+  background-color: #08fcfc;
+}
+
+.list{
+  flex: .2;
+  padding: 1.5rem 4rem;
+  align-self: start;
+  background-color: blanchedalmond;
+}
+
+.text{ 
+  align-items: top;
+  flex: .8;
+  min-width: 50rem;
+  background-color: rgb(202, 202, 202);
+}
+

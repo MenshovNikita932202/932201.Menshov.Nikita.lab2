@@ -1,0 +1,17 @@
+.square{
+  float: left;
+  width: 200px;
+  height: 100px;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-bottom: 20px;
+  background-color: #80fcd4;
+}
+
+.clear-box{
+  background-color: blanchedalmond;
+  width: calc(100%-30px);
+  margin-left: 15px;
+  margin-right: 15px;
+  clear: both; 
+}

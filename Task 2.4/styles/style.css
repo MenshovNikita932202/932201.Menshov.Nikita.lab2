@@ -1,0 +1,24 @@
+.text{
+  background-color: blue;
+  color: aliceblue;
+}
+
+.parameters{
+  width:700px;
+  height:400px;
+  margin: auto;
+  /* margin-left: 10px;
+  margin-right: 10px; */
+}
+
+.block{
+  display: flex;
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+} 

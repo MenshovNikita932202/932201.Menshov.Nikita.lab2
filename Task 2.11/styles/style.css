@@ -1,0 +1,16 @@
+.content{
+  display: grid;
+  grid-template-columns: 1fr auto;
+  border: green 2px solid;
+}
+
+.rectangle{
+  float: left;
+  width: 100%;
+  height: 100%;
+  background-color: #08fcfc;
+}
+
+.mouse{
+  float: right;
+}
